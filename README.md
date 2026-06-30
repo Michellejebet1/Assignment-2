@@ -1,3 +1,3 @@
 # Java Assignment 2: RadioButtonDemo
 ### Application Screenshot
-![App Screenshot] (OOOOOOOOOH)
+![App Screenshot] (images/OOOOOOOOOH.png)
